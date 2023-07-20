@@ -14,22 +14,22 @@ I used Pivot Tables, conditional formatting, aggregation functions, VLOOKUP, and
 
 # **Summary of Insights**
 
-**Sales Trends**: 
+### **Sales Trends**: 
 - Over the last four years (2019-2022), the average annual sales reached 18.5K orders with yearly sales of $4.8 million and an average order value of $226. 
 - 2021 was a stand-out year with the highest number of sales (30K), while 2020 exhibited the highest average order value ($298). 
 
-**Seasonality**:
+### **Seasonality**:
 - The spring and winter months tend to have higher sales, likely due to holiday gift-buying and promotions, and there was a spike in the average sale price in January and February 2020, possibly related to pandemic purchases.
 
-**Product Trends**:
+### **Product Trends**:
 - From 2020 to 2022, the 27in 4K Gaming Monitor brought in the most amount of revenue. Across all four years, Apple Airpods Headphones consistently ranked as the best-selling product (based on order count). 
 On the other hand, Bose Soundsport Headphones accounted for less than 1% of total sales and orders** each year. 
 
-**Loyalty Program**:
+### **Loyalty Program**:
 - The loyalty program is trending positively and gained traction in 2021 as it generated an additional $506K compared to non-loyalty program sales. 
 - In 2022, the loyalty program produced $523K more than non-loyalty program sales and also saw more expensive sales ($34 more in AOV).
 
-**Marketing Trends**:
+### **Marketing Trends**:
 - The marketing channels that consistently drive the most sales revenue each year are direct and email. 
 - Across all four years, direct marketing has accounted for $19.8M in sales while email marketing for $2.8M in sales.
 
